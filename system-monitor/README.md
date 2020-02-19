@@ -8,7 +8,10 @@ Provides an alternative frontend for the `nbresuse` metrics: [https://github.com
 
 ![screencast](./doc/screencast.gif)
 
-This extension was originally developed as part of the [jupyterlab-topbar](https://github.com/jtpio/jupyterlab-topbar) project, and extracted into its own repository later on.
+This extension was originally developed as part of the [jupyterlab-topbar](https://github.com/jtpio/jupyterlab-topbar) project, and extracted into its own reposi
+
+
+tory later on.
 
 ## TODO
 
